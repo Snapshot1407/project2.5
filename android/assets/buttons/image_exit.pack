@@ -1,0 +1,18 @@
+image_exit.png
+size: 556, 130
+format: RGBA8888
+repeat: none
+button-up
+  rotate: false
+  xy: 3, 0
+  size: 284, 140
+  orig: 284, 140
+  offset: 0, 0
+  index: -1
+button-down
+  rotate: false
+  xy: 290, 0
+  size: 284, 140
+  orig: 284, 140
+  offset: 0, 0
+  index: -1
